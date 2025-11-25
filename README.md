@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Josue 👋<br><br>I'm a Computer Science student at INACAP Chile, focused on backend development, full-stack work, and automations using n8n. I enjoy building APIs, working with databases, and exploring cloud technologies.<br><br>🚀 Technologies<br>- Python, JavaScript  <br>- Django, Flask, Supabase  <br>- n8n, MongoDB  <br>- Docker, Git, Linux  <br>- Cisco certifications in networking and troubleshooting<br><br>📚 Currently Learning<br>- Advanced automation flows with n8n  <br>- API integrations and cloud deployments<br><br>🎯 Interests<br>Backend, full-stack development, automation, APIs, and cloud.<br><br>🐟 About Me<br>I love fishing, playing on Steam, photography, and cats.<br>
+Hello, I'm Josue 👋<br><br>I'm a Computer Science student at INACAP Chile, focused on backend development, full-stack work, and automations using n8n. I enjoy building APIs, working with databases, and exploring cloud technologies.<br><br>🚀 Technologies<br>- Python, JavaScript  <br>- Django, Flask, Supabase  <br>- n8n, MongoDB  <br>- Docker, Git, Linux  <br>- Cisco certifications in networking and troubleshooting<br><br>📚 Currently Learning<br>- Advanced automation flows with n8n  <br>- API integrations and cloud deployments<br><br>🎯 Interests<br>Backend, full-stack development, automation, APIs, and cloud.<br><br>
 
 
 ## 🌐 Socials:
